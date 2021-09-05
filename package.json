@@ -1,0 +1,19 @@
+{
+  "name": "tb-transport",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "node-html-parser": "^3.3.6",
+    "pug": "2.0.0-beta11",
+    "superagent": "^6.1.0"
+  }
+}
